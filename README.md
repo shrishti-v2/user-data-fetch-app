@@ -1,4 +1,4 @@
-# web_development_task_7
+# Fetch API 
 User Data Fetching Project
 ## Overview
 This project is a simple web application that fetches user data from an external API (`https://jsonplaceholder.typicode.com/users`) and displays it on the page. The application handles errors gracefully, applies basic styling using CSS, and includes a reload button to refetch data.
